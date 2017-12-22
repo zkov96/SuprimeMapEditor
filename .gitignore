@@ -1,0 +1,5 @@
+*.meta
+.idea/
+Library/
+obj/
+Assets/GameData/
